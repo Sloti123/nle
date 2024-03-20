@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href="NLE.css" rel="stylesheet">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+  <h1 class="myClass1"><strong> <ins>   NLE CHOPPA </ins></strong></h1>
+  <p class="myClass2">
+   
+		<ins class="myClass2"><a href="https://de.wikipedia.org/wiki/NLE_Choppa"> NLE Choppa </ins></a>  ist ein aufstrebender US-amerikanischer Rapper, der mit seinen energiegeladenen Tracks und seinem charakteristischen Flow <br>die Aufmerksamkeit der Hip-Hop-Welt auf sich zieht. Geboren am 1. November 2002 als <em>Bryson Potts</em> in Memphis, Tennessee, begann er seine Rap-Karriere im Jahr 2018. Sein Durchbruch kam mit dem Hit "Shotta Flow", der viral ging und ihm eine große Fangemeinde einbrachte. Choppa ist bekannt für seine spirituelle Einstellung und seine Botschaften über <strong>  Selbstverbesserung und Frieden.</strong>
+  </p>
+
+  <h2 class="myClass4"><ins>Musik</ins></h2>
+	
+  <br>
+	<a href="https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ?autoplay=true"><p class="myClass4">Spotify</a></br>
+  <br><a href="https://soundcloud.com/nlechoppa">SoundCloud</a></br>
+<br><a href="https://music.apple.com/de/artist/nle-choppa/1449052753">Apple Music</a></br>
+<br><a href="https://www.deezer.com/artist/57203182">Deezer</a></br>
+  </ul>
+  <h2 class="myClass3">No Love Entertaiment</h2>
+  <p>
+    
+  </p>
+  <p>
+    <img src="https://m.media-amazon.com/images/I/81owPYBehsL._UF894,1000_QL80_.jpg" width="400px" alt="Tim Berners-Lee">
+    <br>
+    
+  </p>
+
+  <hr>
+
+  <p>
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=muzQ0r14L2Y" frameborder="0" allowfullscreen></iframe>
+  </p>
+</body>
+</html>
+
+body {
+  color: black;
+  background-color: #ebae21;
+  font-family: Lato, Arial;
+  text-align: center;
+}
+
+p {
+  font-size:12pt;
+}
+
+li {
+  padding-bottom: 5px;
+  text-align: center;
+  font-size:10pt;
+}
+.myClass1 {
+  width: 100%;
+  font-weight: lighter;
+  text-align: center;
+  font-size: 60px;
+  color: purple;
+  font-family: Lato, "sans serif";
+}
+.myClass2 {
+  width: 100%;
+  font-weight: lighter;
+  text-align: center;
+  font-size: 30px;
+  color: black;
+}
+.myClass3 {
+  width: 100%;
+  font-weight: ;
+  text-align: center;
+  font-size: 38px;
+  color:black;
+}
+.myClass4 {
+  width: 100%;
+  font-weight: ;
+  text-align: center;
+  font-size: 38px;
+  color:black;
+}
+h1 {
+  color: purple;
+  text-align: center;
+}
+
+h2 {
+  padding-top: 50px;
+}
